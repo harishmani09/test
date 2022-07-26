@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-    <div class="container mx-auto font-sans">
+    <div class="container mx-auto font-sans bg-indigo-200">
         <header class="py-6 mb-8">
             <img src="/images/logo.svg" alt="laracast" />
         </header>
